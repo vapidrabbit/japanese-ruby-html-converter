@@ -38,6 +38,6 @@ function transferKanjiToHtml (str) {
   }).join('')
 }
 
-//copy and paste Japanese sentence into the console.log part below where the samle sentence is.
+//copy and paste Japanese sentence into the console.log part below where the sample sentence is.
 
 console.log(transferKanjiToHtml('私は寿司が好きです。'))

@@ -2,6 +2,7 @@
 //At the bottom of this code is where you copy and paste (or type) the Japanese sentence to be output as code for an HTML document.
 //After pasting the output from the JavaScript console.log into an HTML document, the output in the HTML document should be code that can be used in another HTML document to put Japanese ruby above the kanji in the sentence(s) originally put into the console.log here.
 //This output can be useful for people who want to show ruby code, as well as people who want to have Japanese sentences with ruby above it in their HTML documents or OnsenUI applications.
+//Additional credit goes to Ting Hao Chang.
 
 var obj = {
   "{": '&lt;ruby&gt;',
